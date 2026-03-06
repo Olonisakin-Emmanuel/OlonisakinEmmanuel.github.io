@@ -1,11 +1,12 @@
+# Portfolio Website
+Visit the live portfolio here: https://olonisakin-emmanuel.github.io/OlonisakinEmmanuel.github.io/
+
 # Emmanuel Olonisakin – AI & Machine Learning Portfolio
 
 This repository contains the source code for my personal portfolio website showcasing my work in Artificial Intelligence, Machine Learning, and Data Analytics.
 
 The portfolio highlights projects I have built, including AI-powered applications, data-driven systems, and machine learning solutions.
 
-## Portfolio Website
-Visit the live portfolio here: https://olonisakin-emmanuel.github.io/OlonisakinEmmanuel.github.io/
 
 ## About Me
 I am a Machine Learning Engineer and Data Analyst with a background in Civil Engineering. I build intelligent systems that combine machine learning, natural language processing (NLP), and large language models (LLMs) to solve real-world problems.
@@ -18,3 +19,4 @@ This portfolio is built using the **Massively template by HTML5 UP** and hosted 
 ## Author
 Emmanuel Olonisakin  
 Machine Learning Engineer | AI Engineer | Data Analyst
+
